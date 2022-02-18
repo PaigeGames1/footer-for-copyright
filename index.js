@@ -9,5 +9,5 @@ var moment = require('moment');
  */
 
 exports.footer = function(name) {
-    return "© " + moment().format('YYYY') + " " + name + " | " + "All rights reserved";
+    return "©" + moment().format('YYYY') + "  " + name + "  |  " + "All rights reserved";
 };

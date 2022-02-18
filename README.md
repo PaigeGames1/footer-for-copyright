@@ -11,7 +11,7 @@ npm install --save footer-for-copyright
 Add to a Javascript project with the following code:
 
 ````javascript
-import { footer } from 'copyright-for-footer';
+import { footer } from 'footer-for-copyright';
 
 footer('some name');
 ````
