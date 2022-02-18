@@ -1,0 +1,25 @@
+{
+  "name": "footer-for-copyright",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic copyright footer to be generated for Javascript applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaigeGames1/footer-for-copyright.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Paige Crandall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaigeGames1/footer-for-copyright/issues"
+  },
+  "homepage": "https://github.com/PaigeGames1/footer-for-copyright#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
