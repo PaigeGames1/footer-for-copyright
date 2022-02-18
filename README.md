@@ -5,7 +5,7 @@
 Install with the command:
 
 ````
-npm install --save copyright_for_footer
+npm install --save footer-for-copyright
 ````
 
 Add to a Javascript project with the following code:
